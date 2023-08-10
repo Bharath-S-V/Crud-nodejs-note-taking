@@ -12,3 +12,6 @@ note
 
 nodemon index.js
 
+# mongoDB 
+
+use your mongodb cluster on .env file
