@@ -5,5 +5,6 @@ http://localhost:4000/
 
 # models used
 user
+
 note
 
