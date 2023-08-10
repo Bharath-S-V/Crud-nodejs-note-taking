@@ -8,3 +8,7 @@ user
 
 note
 
+# server
+
+nodemon index.js
+
